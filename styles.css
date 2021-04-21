@@ -1,0 +1,17 @@
+.menu__item {
+  text-decoration: none;
+  font-family: 'Museo Sans Cyrl', sans-serif;
+}
+.main__left_title {
+  font-family: 'PT_Serif', sans-serif;
+}
+.main__left_subtitle {
+  font-family: 'PT_Serif', sans-serif;
+}
+.main__left_text {
+  font-family: 'Museo Sans Cyrl', sans-serif;
+}
+.main__left_button {
+  text-decoration: none;
+  font-family: 'Museo Sans Cyrl', sans-serif;
+}
