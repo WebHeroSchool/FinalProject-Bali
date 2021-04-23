@@ -1,0 +1,82 @@
+.menu__item {
+  text-decoration: none;
+  font-family: 'Museo Sans Cyrl2', sans-serif;
+  font-size: 22px;
+  line-height: 26px;
+}
+
+.main__left_title {
+  font-family: 'PT_Serif', sans-serif;
+  font-size: 280px;
+  line-height: 371px;
+}
+
+.main__left_subtitle {
+  font-family: 'PT_Serif', sans-serif;
+  font-size: 98px;
+  line-height: 130px;
+}
+
+.main__left_text {
+  font-family: 'Museo Sans Cyrl', sans-serif;
+  font-size: 22px;
+  line-height: 26px;
+}
+
+.main__left_button {
+  text-decoration: none;
+  font-family: 'Museo Sans Cyrl', sans-serif;
+  font-size: 22px;
+  line-height: 26px;
+}
+
+@media (max-width: 1367px) {
+  .menu__item {
+    font-size: 16px;
+    line-height: 19px;
+  }
+
+  .main__left_title {
+    font-size: 200px;
+    line-height: 265px;
+  }
+
+  .main__left_subtitle {
+    font-size: 70px;
+    line-height: 93px;
+  }
+
+  .main__left_text {
+    font-size: 16px;
+    line-height: 19px;
+  }
+
+  .main__left_button {
+    font-size: 16px;
+    line-height: 19px;
+  }
+}
+
+@media (max-width: 1025px) {
+
+}
+
+@media (max-width: 768px) {
+  .menu__item {
+    display: none;
+}
+
+  .main__left_title {
+    font-size: 170px;
+    line-height: 225px;
+}
+
+.main__left_subtitle {
+  font-size: 60px;
+  line-height: 79px;
+}
+
+.main__left_text {
+  font-size: 18px;
+  line-height: 22px;
+}
